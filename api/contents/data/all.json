@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-06-14T10:56:04.165694Z",
+      "created": "2022-06-14T10:55:58.217673Z",
       "format": null,
-      "last_modified": "2022-06-14T10:54:05.794599Z",
+      "last_modified": "2022-06-14T10:53:48.804890Z",
       "mimetype": "application/json",
       "name": "bar.vl.json",
       "path": "data/bar.vl.json",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-14T10:56:04.165694Z",
+      "created": "2022-06-14T10:55:58.221674Z",
       "format": null,
-      "last_modified": "2022-06-14T10:54:05.794599Z",
+      "last_modified": "2022-06-14T10:53:48.804890Z",
       "mimetype": "text/csv",
       "name": "iris.csv",
       "path": "data/iris.csv",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-14T10:56:04.161695Z",
+      "created": "2022-06-14T10:55:58.217673Z",
       "format": null,
-      "last_modified": "2022-06-14T10:54:05.794599Z",
+      "last_modified": "2022-06-14T10:53:48.804890Z",
       "mimetype": "text/csv",
       "name": "Testdatasett.csv",
       "path": "data/Testdatasett.csv",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-14T10:56:04.161695Z",
+      "created": "2022-06-14T10:55:58.217673Z",
       "format": null,
-      "last_modified": "2022-06-14T10:54:05.794599Z",
+      "last_modified": "2022-06-14T10:53:48.800889Z",
       "mimetype": null,
       "name": "Museums_in_DC.geojson",
       "path": "data/Museums_in_DC.geojson",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-14T10:56:04.165694Z",
+      "created": "2022-06-14T10:55:58.217673Z",
       "format": null,
-      "last_modified": "2022-06-14T10:54:05.794599Z",
+      "last_modified": "2022-06-14T10:53:48.804890Z",
       "mimetype": null,
       "name": "fasta-example.fasta",
       "path": "data/fasta-example.fasta",
@@ -62,9 +62,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-14T10:56:04.165694Z",
+      "created": "2022-06-14T10:55:58.221674Z",
       "format": null,
-      "last_modified": "2022-06-14T10:54:05.794599Z",
+      "last_modified": "2022-06-14T10:53:48.804890Z",
       "mimetype": "image/png",
       "name": "matplotlib.png",
       "path": "data/matplotlib.png",
@@ -73,9 +73,9 @@
       "writable": true
     }
   ],
-  "created": "2022-06-14T10:56:04.165694Z",
+  "created": "2022-06-14T10:55:58.221674Z",
   "format": "json",
-  "last_modified": "2022-06-14T10:56:04.165694Z",
+  "last_modified": "2022-06-14T10:55:58.221674Z",
   "mimetype": null,
   "name": "data",
   "path": "data",
