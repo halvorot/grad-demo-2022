@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-06-23T12:53:18.465578Z",
+      "created": "2022-06-24T08:46:43.973709Z",
       "format": null,
-      "last_modified": "2022-06-23T12:53:18.465578Z",
+      "last_modified": "2022-06-24T08:46:43.973709Z",
       "mimetype": null,
       "name": "data",
       "path": "data",
@@ -14,21 +14,21 @@
     },
     {
       "content": null,
-      "created": "2022-06-23T12:53:18.465578Z",
+      "created": "2022-06-24T08:46:43.973709Z",
       "format": null,
-      "last_modified": "2022-06-23T12:52:12.022361Z",
+      "last_modified": "2022-06-24T08:45:22.468319Z",
       "mimetype": null,
-      "name": "anonymiser_datasett oppgave.ipynb",
-      "path": "anonymiser_datasett oppgave.ipynb",
-      "size": 2663,
+      "name": "oppgave.ipynb",
+      "path": "oppgave.ipynb",
+      "size": 2661,
       "type": "notebook",
       "writable": true
     },
     {
       "content": null,
-      "created": "2022-06-23T12:53:18.465578Z",
+      "created": "2022-06-24T08:46:43.973709Z",
       "format": null,
-      "last_modified": "2022-06-23T12:53:16.897600Z",
+      "last_modified": "2022-06-24T08:46:41.709671Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-06-23T12:53:18.465578Z",
+  "created": "2022-06-24T08:46:43.973709Z",
   "format": "json",
-  "last_modified": "2022-06-23T12:53:18.465578Z",
+  "last_modified": "2022-06-24T08:46:43.973709Z",
   "mimetype": null,
   "name": "",
   "path": "",
